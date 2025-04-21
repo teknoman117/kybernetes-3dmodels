@@ -19,6 +19,8 @@ FreeCAD Models for Kybernetes 2 Parts
 | center-plate.stl | Center piece for top plate |
 | front-block.stl | Forward piece for top plate (Chassis mount) |
 | front-plate.stl | Forward piece for top plate (IMU mount) |
+| insta360-mount.stl | Rear mount for a camera arm |
+| insta360-mount-2.stl | Side mount for a camera arm |
 | rear-block.stl | Rear piece for top plate (Chassis mount) |
 | rear-plate.stl | Rear piece for top plate (Power Distribution mount) |
 | short-plate.stl | Plated between center piece and forward piece, and center piece and rear piece (need 2) |
